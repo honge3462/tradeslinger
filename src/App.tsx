@@ -1,4 +1,4 @@
-import {useState} from "react"
+import React, { useState } from "react";
 import './App.css';
 import TextField from '@material-ui/core/TextField';
 
@@ -52,7 +52,7 @@ const useStyles = makeStyles(() => ({
 
 }));
 
-function App() {
+const App: React.FC = () => {
   const classes = useStyles();
   const fonts = [classes.blantickScript, classes.foreFarmers, classes.grestalScript, classes.helloHoney, classes.kaileyLatief, classes.lifeStyle, classes.octoberTwilight, classes.sunFlowers];
   const [text, setText] = useState('')
@@ -61,7 +61,7 @@ function App() {
     <div className="App">
       <Typography variant="h3">Type text here to see example fonts</Typography>
       <TextField id="outlined-basic" onChange={e => setText(e.target.value)} fullWidth label={""} variant="outlined" placeholder={"type text here"} />
-      
+
       { fonts.map((font, index) => (
       <div className={classes.textBox}>
         <Typography variant="h4">Font #{index + 1} - </Typography>
