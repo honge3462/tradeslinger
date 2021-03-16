@@ -2,7 +2,8 @@ import React, { useState } from "react";
 import './App.css';
 import TextField from '@material-ui/core/TextField';
 
-import Header from "./components/Header/Header"
+import Header from "./components/Header/Header";
+import Footer from "./components/Footer/Footer";
 
 
 import { makeStyles, Typography } from "@material-ui/core";
@@ -74,6 +75,7 @@ const App: React.FC = () => {
         </div>
         ))}
       </div>
+      <Footer />
     </div>
   );
 }

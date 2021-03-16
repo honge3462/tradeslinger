@@ -1,0 +1,10 @@
+.footer {
+    width: 100vw;
+    height: 10vh;
+    background-color: #FFD1DC;
+    display: flex;
+}
+
+.socialMedia {
+    width: 7%
+}
