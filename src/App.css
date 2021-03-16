@@ -1,38 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:regular,bold,italic&subset=latin,latin-ext');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ballet&family=Josefin+Sans:wght@300&display=swap');
+
 .App {
-  text-align: center;
+  margin-top: 5rem;
+  margin-left: 4rem;
+  margin-right: 4rem;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+@font-face {
+  font-family: "SweetHipster";
+  src: local('SweetHipster'), url(./fonts/SweetHipster.ttf) format('truetype');
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+@font-face {
+  font-family: "BlantickScript";
+  src: local('BlantickScript'), url(./fonts/BlantickScript.ttf) format('truetype');
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+@font-face {
+  font-family: "Forefarmers";
+  src: local('Forefarmers'), url(./fonts/Forefarmers.ttf) format('truetype');
 }
 
-.App-link {
-  color: #61dafb;
+@font-face {
+  font-family: "GrestalScript";
+  src: local('GrestalScript'), url(./fonts/GrestalScript.ttf) format('truetype');
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+@font-face {
+  font-family: "HelloHoney";
+  src: local('HelloHoney'), url(./fonts/HelloHoney.otf) format('opentype');
+}
+
+@font-face {
+  font-family: "KaileyLatief";
+  src: local('KaileyLatief'), url(./fonts/KaileyLatief.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: "Lifestyle";
+  src: local('Lifestyle'), url(./fonts/Lifestyle.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: "OctoberTwilight";
+  src: local('OctoberTwilight'), url(./fonts/OctoberTwilight.otf) format('opentype');
+}
+
+@font-face {
+  font-family: "Sunflowers";
+  src: local('Sunflowers'), url(./fonts/Sunflowers.ttf) format('truetype');
 }
