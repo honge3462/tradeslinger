@@ -1,0 +1,10 @@
+.header {
+    width: 100vw;
+    height: 14vh;
+    background-color: #FFD1DC;
+    display: flex
+}
+
+.logo {
+    width: 7%
+}
