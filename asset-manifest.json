@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/tradeslinger/static/css/main.12332a5f.chunk.css",
-    "main.js": "/tradeslinger/static/js/main.8ad6dc1f.chunk.js",
-    "main.js.map": "/tradeslinger/static/js/main.8ad6dc1f.chunk.js.map",
-    "runtime-main.js": "/tradeslinger/static/js/runtime-main.221faaea.js",
-    "runtime-main.js.map": "/tradeslinger/static/js/runtime-main.221faaea.js.map",
-    "static/js/2.6920a0f7.chunk.js": "/tradeslinger/static/js/2.6920a0f7.chunk.js",
-    "static/js/2.6920a0f7.chunk.js.map": "/tradeslinger/static/js/2.6920a0f7.chunk.js.map",
-    "static/js/3.55c4bca9.chunk.js": "/tradeslinger/static/js/3.55c4bca9.chunk.js",
-    "static/js/3.55c4bca9.chunk.js.map": "/tradeslinger/static/js/3.55c4bca9.chunk.js.map",
+    "main.css": "/tradeslinger/static/css/main.ebe1dd28.chunk.css",
+    "main.js": "/tradeslinger/static/js/main.d9c60fc3.chunk.js",
+    "main.js.map": "/tradeslinger/static/js/main.d9c60fc3.chunk.js.map",
+    "runtime-main.js": "/tradeslinger/static/js/runtime-main.1beeec0b.js",
+    "runtime-main.js.map": "/tradeslinger/static/js/runtime-main.1beeec0b.js.map",
+    "static/js/2.dede0ca4.chunk.js": "/tradeslinger/static/js/2.dede0ca4.chunk.js",
+    "static/js/2.dede0ca4.chunk.js.map": "/tradeslinger/static/js/2.dede0ca4.chunk.js.map",
+    "static/js/3.ece4b443.chunk.js": "/tradeslinger/static/js/3.ece4b443.chunk.js",
+    "static/js/3.ece4b443.chunk.js.map": "/tradeslinger/static/js/3.ece4b443.chunk.js.map",
     "index.html": "/tradeslinger/index.html",
-    "static/css/main.12332a5f.chunk.css.map": "/tradeslinger/static/css/main.12332a5f.chunk.css.map",
-    "static/js/2.6920a0f7.chunk.js.LICENSE.txt": "/tradeslinger/static/js/2.6920a0f7.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/tradeslinger/static/media/SweetHipster.54893c71.ttf"
+    "static/css/main.ebe1dd28.chunk.css.map": "/tradeslinger/static/css/main.ebe1dd28.chunk.css.map",
+    "static/js/2.dede0ca4.chunk.js.LICENSE.txt": "/tradeslinger/static/js/2.dede0ca4.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/tradeslinger/static/media/SweetHipster.54893c71.ttf",
+    "static/media/tradeslinger2.03106bc7.png": "/tradeslinger/static/media/tradeslinger2.03106bc7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.221faaea.js",
-    "static/js/2.6920a0f7.chunk.js",
-    "static/css/main.12332a5f.chunk.css",
-    "static/js/main.8ad6dc1f.chunk.js"
+    "static/js/runtime-main.1beeec0b.js",
+    "static/js/2.dede0ca4.chunk.js",
+    "static/css/main.ebe1dd28.chunk.css",
+    "static/js/main.d9c60fc3.chunk.js"
   ]
 }
