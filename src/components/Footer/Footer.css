@@ -3,8 +3,21 @@
     height: 10vh;
     background-color: #FFD1DC;
     display: flex;
+    justify-content: space-around;
 }
 
 .socialMedia {
-    width: 7%
+    width: 2rem;
+    padding-top: 1.25rem
+}
+
+.etsy {
+    text-decoration: none;
+    color: #000000;
+}
+
+.button {
+    height: 3rem;
+    margin-top: 2rem;
+    color: rgb(37, 21, 1);
 }

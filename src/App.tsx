@@ -20,39 +20,39 @@ const useStyles = makeStyles(() => ({
   },
   sweetHipster: {
     fontFamily: "SweetHipster",
-    marginLeft: "1rem"
+    marginLeft: ".5rem"
   },
   blantickScript: {
     fontFamily: "BlantickScript",
-    marginLeft: "1rem"
+    marginLeft: ".5rem"
   },
   foreFarmers: {
     fontFamily: "ForeFarmers",
-    marginLeft: "1rem"
+    marginLeft: ".5rem"
   },
   grestalScript: {
     fontFamily: "GrestalScript",
-    marginLeft: "1rem"
+    marginLeft: ".5rem"
   },
   kaileyLatief: {
     fontFamily: "KaileyLatief",
-    marginLeft: "1rem"
+    marginLeft: ".5rem"
   },
   lifeStyle: {
     fontFamily: "LifeStyle",
-    marginLeft: "1rem"
+    marginLeft: ".5rem"
   },
   octoberTwilight: {
     fontFamily: "OctoberTwilight",
-    marginLeft: "1rem"
+    marginLeft: ".5rem"
   },
   sunFlowers: {
     fontFamily: "Sunflowers",
-    marginLeft: "1rem"
+    marginLeft: ".5rem"
   },
   helloHoney: {
     fontFamily: "HelloHoney",
-    marginLeft: "1rem"
+    marginLeft: ".5rem"
   }
 }));
 
@@ -71,7 +71,7 @@ const App: React.FC = () => {
         { fonts.map((font, index) => (
           <div className={classes.textBox}>
           <Typography variant="h4">Font #{index + 1} - </Typography>
-          <Typography variant="h2" className={font}>{text}</Typography>
+          <Typography variant="h3" className={font}>{text}</Typography>
         </div>
         ))}
       </div>
