@@ -6,6 +6,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### 'Steps to update site'
+
+Run: 
+- git add .
+- git commit -m "write some message here"
+- git push origin main
+- yarn deploy
+
+
 ### `yarn start`
 
 Runs the app in the development mode.\
