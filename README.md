@@ -8,6 +8,8 @@ In the project directory, you can run:
 
 ### Steps to update site
 
+made an edit
+
 Run: 
 - git add .
 - git commit -m "write some message here"
