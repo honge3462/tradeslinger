@@ -62,7 +62,7 @@ const App: React.FC = () => {
   const [text, setText] = useState<string>('')
   
   return (
-    <div>
+    <div className="app">
       <Header />
       <div className="text">
         <Typography variant="h3" className={classes.instructions}>Type text here to see example fonts</Typography>

@@ -4,6 +4,10 @@
   margin-right: 3rem;
 }
 
+.app {
+  overflow-x: hidden;
+}
+
 .instructions {
   margin-bottom: 1rem;
 }
