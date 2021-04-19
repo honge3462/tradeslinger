@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/tradeslinger/static/css/main.f80a520c.chunk.css",
-    "main.js": "/tradeslinger/static/js/main.655e0516.chunk.js",
-    "main.js.map": "/tradeslinger/static/js/main.655e0516.chunk.js.map",
-    "runtime-main.js": "/tradeslinger/static/js/runtime-main.fc6a8f0a.js",
-    "runtime-main.js.map": "/tradeslinger/static/js/runtime-main.fc6a8f0a.js.map",
-    "static/js/2.e7431a83.chunk.js": "/tradeslinger/static/js/2.e7431a83.chunk.js",
-    "static/js/2.e7431a83.chunk.js.map": "/tradeslinger/static/js/2.e7431a83.chunk.js.map",
-    "static/js/3.8d13b430.chunk.js": "/tradeslinger/static/js/3.8d13b430.chunk.js",
-    "static/js/3.8d13b430.chunk.js.map": "/tradeslinger/static/js/3.8d13b430.chunk.js.map",
-    "index.html": "/tradeslinger/index.html",
-    "static/css/main.f80a520c.chunk.css.map": "/tradeslinger/static/css/main.f80a520c.chunk.css.map",
-    "static/js/2.e7431a83.chunk.js.LICENSE.txt": "/tradeslinger/static/js/2.e7431a83.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/tradeslinger/static/media/SweetHipster.54893c71.ttf",
-    "static/media/facebook.8d51a556.png": "/tradeslinger/static/media/facebook.8d51a556.png",
-    "static/media/instagram.776d16d0.png": "/tradeslinger/static/media/instagram.776d16d0.png",
-    "static/media/tradeslinger2.03106bc7.png": "/tradeslinger/static/media/tradeslinger2.03106bc7.png"
+    "main.css": "/static/css/main.21276757.chunk.css",
+    "main.js": "/static/js/main.655e0516.chunk.js",
+    "main.js.map": "/static/js/main.655e0516.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.40862077.js",
+    "runtime-main.js.map": "/static/js/runtime-main.40862077.js.map",
+    "static/js/2.e7431a83.chunk.js": "/static/js/2.e7431a83.chunk.js",
+    "static/js/2.e7431a83.chunk.js.map": "/static/js/2.e7431a83.chunk.js.map",
+    "static/js/3.8d13b430.chunk.js": "/static/js/3.8d13b430.chunk.js",
+    "static/js/3.8d13b430.chunk.js.map": "/static/js/3.8d13b430.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.21276757.chunk.css.map": "/static/css/main.21276757.chunk.css.map",
+    "static/js/2.e7431a83.chunk.js.LICENSE.txt": "/static/js/2.e7431a83.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/SweetHipster.54893c71.ttf",
+    "static/media/facebook.8d51a556.png": "/static/media/facebook.8d51a556.png",
+    "static/media/instagram.776d16d0.png": "/static/media/instagram.776d16d0.png",
+    "static/media/tradeslinger2.03106bc7.png": "/static/media/tradeslinger2.03106bc7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.fc6a8f0a.js",
+    "static/js/runtime-main.40862077.js",
     "static/js/2.e7431a83.chunk.js",
-    "static/css/main.f80a520c.chunk.css",
+    "static/css/main.21276757.chunk.css",
     "static/js/main.655e0516.chunk.js"
   ]
 }
