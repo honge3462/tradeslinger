@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/tradeslingerfonttester.com/static/css/main.1e38810f.chunk.css",
-    "main.js": "/tradeslingerfonttester.com/static/js/main.655e0516.chunk.js",
-    "main.js.map": "/tradeslingerfonttester.com/static/js/main.655e0516.chunk.js.map",
-    "runtime-main.js": "/tradeslingerfonttester.com/static/js/runtime-main.5d70f3d8.js",
-    "runtime-main.js.map": "/tradeslingerfonttester.com/static/js/runtime-main.5d70f3d8.js.map",
-    "static/js/2.e7431a83.chunk.js": "/tradeslingerfonttester.com/static/js/2.e7431a83.chunk.js",
-    "static/js/2.e7431a83.chunk.js.map": "/tradeslingerfonttester.com/static/js/2.e7431a83.chunk.js.map",
-    "static/js/3.8d13b430.chunk.js": "/tradeslingerfonttester.com/static/js/3.8d13b430.chunk.js",
-    "static/js/3.8d13b430.chunk.js.map": "/tradeslingerfonttester.com/static/js/3.8d13b430.chunk.js.map",
-    "index.html": "/tradeslingerfonttester.com/index.html",
-    "static/css/main.1e38810f.chunk.css.map": "/tradeslingerfonttester.com/static/css/main.1e38810f.chunk.css.map",
-    "static/js/2.e7431a83.chunk.js.LICENSE.txt": "/tradeslingerfonttester.com/static/js/2.e7431a83.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/tradeslingerfonttester.com/static/media/SweetHipster.54893c71.ttf",
-    "static/media/facebook.8d51a556.png": "/tradeslingerfonttester.com/static/media/facebook.8d51a556.png",
-    "static/media/instagram.776d16d0.png": "/tradeslingerfonttester.com/static/media/instagram.776d16d0.png",
-    "static/media/tradeslinger2.03106bc7.png": "/tradeslingerfonttester.com/static/media/tradeslinger2.03106bc7.png"
+    "main.css": "/honge3462.github.io/tradeslinger/static/css/main.a5288cf9.chunk.css",
+    "main.js": "/honge3462.github.io/tradeslinger/static/js/main.655e0516.chunk.js",
+    "main.js.map": "/honge3462.github.io/tradeslinger/static/js/main.655e0516.chunk.js.map",
+    "runtime-main.js": "/honge3462.github.io/tradeslinger/static/js/runtime-main.55b65b4e.js",
+    "runtime-main.js.map": "/honge3462.github.io/tradeslinger/static/js/runtime-main.55b65b4e.js.map",
+    "static/js/2.e7431a83.chunk.js": "/honge3462.github.io/tradeslinger/static/js/2.e7431a83.chunk.js",
+    "static/js/2.e7431a83.chunk.js.map": "/honge3462.github.io/tradeslinger/static/js/2.e7431a83.chunk.js.map",
+    "static/js/3.8d13b430.chunk.js": "/honge3462.github.io/tradeslinger/static/js/3.8d13b430.chunk.js",
+    "static/js/3.8d13b430.chunk.js.map": "/honge3462.github.io/tradeslinger/static/js/3.8d13b430.chunk.js.map",
+    "index.html": "/honge3462.github.io/tradeslinger/index.html",
+    "static/css/main.a5288cf9.chunk.css.map": "/honge3462.github.io/tradeslinger/static/css/main.a5288cf9.chunk.css.map",
+    "static/js/2.e7431a83.chunk.js.LICENSE.txt": "/honge3462.github.io/tradeslinger/static/js/2.e7431a83.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/honge3462.github.io/tradeslinger/static/media/SweetHipster.54893c71.ttf",
+    "static/media/facebook.8d51a556.png": "/honge3462.github.io/tradeslinger/static/media/facebook.8d51a556.png",
+    "static/media/instagram.776d16d0.png": "/honge3462.github.io/tradeslinger/static/media/instagram.776d16d0.png",
+    "static/media/tradeslinger2.03106bc7.png": "/honge3462.github.io/tradeslinger/static/media/tradeslinger2.03106bc7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5d70f3d8.js",
+    "static/js/runtime-main.55b65b4e.js",
     "static/js/2.e7431a83.chunk.js",
-    "static/css/main.1e38810f.chunk.css",
+    "static/css/main.a5288cf9.chunk.css",
     "static/js/main.655e0516.chunk.js"
   ]
 }
