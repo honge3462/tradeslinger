@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/honge3462.github.io/tradeslinger/static/css/main.a5288cf9.chunk.css",
-    "main.js": "/honge3462.github.io/tradeslinger/static/js/main.655e0516.chunk.js",
-    "main.js.map": "/honge3462.github.io/tradeslinger/static/js/main.655e0516.chunk.js.map",
-    "runtime-main.js": "/honge3462.github.io/tradeslinger/static/js/runtime-main.55b65b4e.js",
-    "runtime-main.js.map": "/honge3462.github.io/tradeslinger/static/js/runtime-main.55b65b4e.js.map",
-    "static/js/2.e7431a83.chunk.js": "/honge3462.github.io/tradeslinger/static/js/2.e7431a83.chunk.js",
-    "static/js/2.e7431a83.chunk.js.map": "/honge3462.github.io/tradeslinger/static/js/2.e7431a83.chunk.js.map",
-    "static/js/3.8d13b430.chunk.js": "/honge3462.github.io/tradeslinger/static/js/3.8d13b430.chunk.js",
-    "static/js/3.8d13b430.chunk.js.map": "/honge3462.github.io/tradeslinger/static/js/3.8d13b430.chunk.js.map",
-    "index.html": "/honge3462.github.io/tradeslinger/index.html",
-    "static/css/main.a5288cf9.chunk.css.map": "/honge3462.github.io/tradeslinger/static/css/main.a5288cf9.chunk.css.map",
-    "static/js/2.e7431a83.chunk.js.LICENSE.txt": "/honge3462.github.io/tradeslinger/static/js/2.e7431a83.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/honge3462.github.io/tradeslinger/static/media/SweetHipster.54893c71.ttf",
-    "static/media/facebook.8d51a556.png": "/honge3462.github.io/tradeslinger/static/media/facebook.8d51a556.png",
-    "static/media/instagram.776d16d0.png": "/honge3462.github.io/tradeslinger/static/media/instagram.776d16d0.png",
-    "static/media/tradeslinger2.03106bc7.png": "/honge3462.github.io/tradeslinger/static/media/tradeslinger2.03106bc7.png"
+    "main.css": "/tradeslinger/static/css/main.7f10b770.chunk.css",
+    "main.js": "/tradeslinger/static/js/main.655e0516.chunk.js",
+    "main.js.map": "/tradeslinger/static/js/main.655e0516.chunk.js.map",
+    "runtime-main.js": "/tradeslinger/static/js/runtime-main.fc6a8f0a.js",
+    "runtime-main.js.map": "/tradeslinger/static/js/runtime-main.fc6a8f0a.js.map",
+    "static/js/2.e7431a83.chunk.js": "/tradeslinger/static/js/2.e7431a83.chunk.js",
+    "static/js/2.e7431a83.chunk.js.map": "/tradeslinger/static/js/2.e7431a83.chunk.js.map",
+    "static/js/3.8d13b430.chunk.js": "/tradeslinger/static/js/3.8d13b430.chunk.js",
+    "static/js/3.8d13b430.chunk.js.map": "/tradeslinger/static/js/3.8d13b430.chunk.js.map",
+    "index.html": "/tradeslinger/index.html",
+    "static/css/main.7f10b770.chunk.css.map": "/tradeslinger/static/css/main.7f10b770.chunk.css.map",
+    "static/js/2.e7431a83.chunk.js.LICENSE.txt": "/tradeslinger/static/js/2.e7431a83.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/tradeslinger/static/media/SweetHipster.54893c71.ttf",
+    "static/media/facebook.8d51a556.png": "/tradeslinger/static/media/facebook.8d51a556.png",
+    "static/media/instagram.776d16d0.png": "/tradeslinger/static/media/instagram.776d16d0.png",
+    "static/media/tradeslinger2.03106bc7.png": "/tradeslinger/static/media/tradeslinger2.03106bc7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.55b65b4e.js",
+    "static/js/runtime-main.fc6a8f0a.js",
     "static/js/2.e7431a83.chunk.js",
-    "static/css/main.a5288cf9.chunk.css",
+    "static/css/main.7f10b770.chunk.css",
     "static/js/main.655e0516.chunk.js"
   ]
 }
